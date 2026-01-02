@@ -1,0 +1,7 @@
+{
+  "name": "Copy of TravelSaathi - Your Ultimate Indian Travel Companion",
+  "description": "A world-class travel planning app optimized for the Indian landscape. Get real-time route suggestions, transport availability (buses, trains, cabs), and step-by-step transfer guides across India using Gemini's advanced reasoning.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
